@@ -1,2 +1,2 @@
-# SeIcagel
+# SeIcagel　Series
 Vst-plugins.
