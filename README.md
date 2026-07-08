@@ -1,2 +1,2 @@
 # SeIcagel　Series
-Vst-plugins.
+Audio Plugins.
